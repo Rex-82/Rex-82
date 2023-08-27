@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a></div>  
   
-
-<br/>  
+ 
 
 <div align="center"><div>
 <h3><b>💻 DEV 💻</b></h3>
@@ -36,19 +35,17 @@
 </div>
 
 </div>  
+
+<h4><b>Projects</b></h4>
+<a href="https://top.gg/bot/657369551121678346">
+  <img src="https://img.shields.io/badge/RecipeBot-%23E34F26.svg?style=for-the-badge">
+</a>
+<a href="https://www.instagram.com/undefinedoodles/">
+  <img src="https://img.shields.io/badge/Undefinedoodles-9999FF.svg?style=for-the-badge">
+</a>
+
+<h5>Currently listening: </h5>
   
-
-  
-  
-
-  
-  
-
-<br/>  
-
-
-
-### Currently listening:  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=d5b07t93inctt6mkgmqnzmym1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)  
 
 <br/>  
