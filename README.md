@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center"><br>
+<div align="right"><br>
 <a href="https://www.linkedin.com/in/simoneferretti/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
@@ -11,18 +11,18 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a></div>  
   
- <a class="Box d-flex pinned-item-list-item p-3 width-full js-pinned-item-list-item public sortable-button-item source reorderable" href="https://wakatime.com/@Rex82" target="_blank">
-<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex82">
-</a>
+
 
 <div align="center"><div>
 <h3><b>💻 DEV 💻</b></h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+
 
 
 <h3><b>🎨 ART 🎨</b></h3>
@@ -35,27 +35,35 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
 </div>
+<br>
+<a href="https://wakatime.com/@Rex82" target="_blank">
+<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex82&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&langs_count=6">
+</a>
 
 </div>  
 
-<h4><b>Projects</b></h4>
+<h3 align="left"><b>Projects</b></h3>
+<div align="left">
 <a href="https://top.gg/bot/657369551121678346">
   <img src="https://img.shields.io/badge/RecipeBot-%23E34F26.svg?style=for-the-badge">
 </a>
 <a href="https://www.instagram.com/undefinedoodles/">
   <img src="https://img.shields.io/badge/Undefinedoodles-9999FF.svg?style=for-the-badge">
 </a>
+</div>
 
+<div>
 <h5>Currently listening: </h5>
-<div class="Box d-flex pinned-item-list-item p-3 width-full js-pinned-item-list-item public sortable-button-item source reorderable">
-  
+
+
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=d5b07t93inctt6mkgmqnzmym1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)  
 
+
+
 </div>
-<br/>  
+<div>
+	
+<img src="https://komarev.com/ghpvc/?username=Rex-82&&style=flat-square" align="right"/>
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Rex-82&&style=flat-square" align="right" />
-</div>  
+</div> 
 
-<br/>
