@@ -13,11 +13,10 @@
   
 
 
-<div align="center"><div>
-<h3><b>💻 DEV 💻</b></h3>
+<div align="left"><div>
+<h2><b>DEV</b></h2>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
@@ -25,7 +24,7 @@
 
 
 
-<h3><b>🎨 ART 🎨</b></h3>
+<h2><b>ART</b></h2>
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&logo=adobe%20illustrator&logoColor=white)
@@ -42,7 +41,7 @@
 
 </div>  
 
-<h3 align="left"><b>Projects</b></h3>
+<h2 align="left"><b>Projects</b></h2>
 <div align="left">
 <a href="https://top.gg/bot/657369551121678346">
   <img src="https://img.shields.io/badge/RecipeBot-%23E34F26.svg?style=for-the-badge">
