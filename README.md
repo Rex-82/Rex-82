@@ -3,12 +3,14 @@
 </div>  
   
 
-<div align="right"><br>
+<div align="right">
+	
+<img height="20rem" align="left" src="https://komarev.com/ghpvc/?username=Rex-82&&style=flat-square"/>
 <a href="https://www.linkedin.com/in/simoneferretti/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  <img height="25rem" align="top" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="https://discord.com/users/406817041157193728">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <img height="25rem" align="top"  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a></div>  
   
 
@@ -34,35 +36,31 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
 </div>
-<br>
-<a href="https://wakatime.com/@Rex82" target="_blank">
-<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex82&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&langs_count=6">
-</a>
-
 </div>  
 
-<h2 align="left"><b>Projects</b></h2>
 <div align="left">
+<h2 align="left"><b>Projects</b></h2>
 <a href="https://top.gg/bot/657369551121678346">
   <img src="https://img.shields.io/badge/RecipeBot-%23E34F26.svg?style=for-the-badge">
 </a>
 <a href="https://www.instagram.com/undefinedoodles/">
   <img src="https://img.shields.io/badge/Undefinedoodles-9999FF.svg?style=for-the-badge">
 </a>
+<a href="https://github.com/Rex-82/Tplight-App">
+  <img src="https://img.shields.io/badge/TplightGUI-%23FF9A00.svg?style=for-the-badge">
+</a>
 </div>
 
 <div>
+<p>
 <h5>Currently listening: </h5>
+<img width="38%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=d5b07t93inctt6mkgmqnzmym1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+</p>
 
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=d5b07t93inctt6mkgmqnzmym1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)  
-
-
+<a href="https://wakatime.com/@Rex82" target="_blank">
+<img width="55%" align="right" alt="Monthtly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex-82&api_domain=wakapi.dev&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=%20Monthly%20Stats&layout=compact&border_radius=5px&bg_color=00000000&border_color=1f1f1f&langs_count=6" width="33%">
+</a>
 
 </div>
-<div>
-	
-<img src="https://komarev.com/ghpvc/?username=Rex-82&&style=flat-square" align="right"/>
 
-</div> 
 
