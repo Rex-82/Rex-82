@@ -60,6 +60,6 @@
 
 
 <a href="https://wakatime.com/@Rex82" target="_blank">
-<img width="55%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex-82&api_domain=wakapi.dev&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=%20Weekly%20Stats&layout=compact&border_radius=5px&bg_color=00000000&border_color=1f1f1f&langs_count=6" width="33%">
+<img width="55%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rex-82&api_domain=wakapi.dev&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=%20Last%2030%20Days&layout=compact&border_radius=5px&bg_color=00000000&border_color=1f1f1f&langs_count=6" width="33%">
 </a>
 </div>
