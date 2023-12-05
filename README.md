@@ -18,12 +18,11 @@
 <div align="left"><div>
 <h2><b>DEV</b></h2>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
-
+![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 
 
 <h2><b>ART</b></h2>
