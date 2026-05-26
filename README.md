@@ -4,25 +4,7 @@ Full-Stack Developer, Freelance
 
 Italy / Remote EU/US
 
-Currently building [Bestie Bite](https://bestiebite.com)
-
 [LinkedIn](https://www.linkedin.com/in/simoneferretti/) · [Website](https://simoneferretti.dev)
-
----
-
-### Stack
-
-**Frontend:** TypeScript, Next.js 15, React, Tailwind CSS
-
-**Backend:** NestJS, Node.js, PostgreSQL, TypeORM, Redis
-
-**Payments:** Stripe (subscriptions, SEPA, webhooks)
-
-**Automation:** n8n, Twilio, Amplitude, GTM
-
-**Infrastructure:** GCP, Cloud Run, Firebase, Docker, Coolify, NPM
-
-**Compliance:** GDPR, CCPA/CPRA, WCAG 2.1 AA
 
 ---
 
